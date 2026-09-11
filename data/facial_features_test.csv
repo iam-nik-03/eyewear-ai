@@ -1,0 +1,2 @@
+image,face_shape_label,face_width,face_height,face_aspect_ratio,forehead_width,cheek_width,jaw_width,forehead_to_face_ratio,cheek_to_face_ratio,jaw_to_face_ratio
+heart (1).jpg,Heart,0.4587011608021483,0.4482903488347003,1.0232233685032706,0.3961062194511792,0.4489713571222779,0.3652148797196872,0.8635387334937045,0.9787883604592247,0.7961934935613024

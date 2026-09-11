@@ -1,0 +1,8 @@
+frame_id,brand,frame_image,frame_type,frame_shape,frame_color,material,price,style,gender_style,size
+FRAME_001,VisionCraft,FRAME_001.jpg,Optical,Rectangle,Black,Acetate,,Casual,Unisex,Unknown
+FRAME_002,LumiSpecs,FRAME_002.jpg,Optical,Cat Eye,Black/Gold,Acetate,,Fashion,Unisex,Unknown
+FRAME_003,UrbanLens,FRAME_003.jpg,Optical,Aviator,Gold,Metal,,Casual,Unisex,Unknown
+FRAME_004,OptiCore,FRAME_004.jpg,Optical,Geometric,Black,Acetate,,Professional,Unisex,Unknown
+FRAME_005,FrameNova,FRAME_005.jpg,Optical,Round,Transparent/Grey,Acetate,,Fashion,Unisex,Unknown
+FRAME_006,VisionCraft,FRAME_006.jpg,Optical,Square,Black,Acetate,,Casual,Unisex,Unknown
+FRAME_007,LumiSpecs,FRAME_007.jpg,Optical,Clubmaster,Black/Gold,Acetate/Metal,,Professional,Unisex,Unknown
